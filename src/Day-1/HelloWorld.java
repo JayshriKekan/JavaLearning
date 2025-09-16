@@ -1,6 +1,6 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {          //main class. class name is same as file name.
+public class HelloWorld {          //main class. class name is same as file name.
     public static void main(String[] args) {          //  default main function
 
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
